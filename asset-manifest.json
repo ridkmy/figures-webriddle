@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/figures-webriddle/static/css/main.a90f9684.css",
-    "main.js": "/figures-webriddle/static/js/main.56a9fe6b.js",
+    "main.css": "/figures-webriddle/static/css/main.dd41a3bc.css",
+    "main.js": "/figures-webriddle/static/js/main.7a088ed4.js",
     "static/js/453.4fd2124e.chunk.js": "/figures-webriddle/static/js/453.4fd2124e.chunk.js",
     "index.html": "/figures-webriddle/index.html",
-    "main.a90f9684.css.map": "/figures-webriddle/static/css/main.a90f9684.css.map",
-    "main.56a9fe6b.js.map": "/figures-webriddle/static/js/main.56a9fe6b.js.map",
+    "main.dd41a3bc.css.map": "/figures-webriddle/static/css/main.dd41a3bc.css.map",
+    "main.7a088ed4.js.map": "/figures-webriddle/static/js/main.7a088ed4.js.map",
     "453.4fd2124e.chunk.js.map": "/figures-webriddle/static/js/453.4fd2124e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a90f9684.css",
-    "static/js/main.56a9fe6b.js"
+    "static/css/main.dd41a3bc.css",
+    "static/js/main.7a088ed4.js"
   ]
 }
